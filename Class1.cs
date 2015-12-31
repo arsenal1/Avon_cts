@@ -21,7 +21,7 @@ namespace Avon_cts
         public string prueba()
         {
             string _vari;
-            _vari = "valor44";
+            _vari = "valor454";
             return _vari;
 
         }
